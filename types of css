@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        div{
+            height: 100px;
+             width: 100px;
+             background-color: rgb(65, 156, 126);
+             font-size: larger;"
+        }
+    </style>
+    <title>Types of css</title>
+</head>
+<body>
+    <p><h2>There is 3 types of css:</h2></p>
+    <p><h3>1:Inline css</h3></p>
+    <p><h3>2:Internal css</h3></p>
+    <p><h3>4:external css</h3></p><hr><br>
+    <div style="height: 100px; width: 100px;background-color: rgb(88, 207, 167);font-size: larger;">This is inline css</div><br>
+    <div>This is internal css</div>
+</body>
+</html>
