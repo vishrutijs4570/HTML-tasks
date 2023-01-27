@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>layout 2</title>
+    <style type="text/css">
+        *{font-size:22px;font-weight:bold;}
+        #R1{background-color:gray;height:40px;padding-top:30px;width:95%;padding-left:5%;margin-bottom:10px;} 
+        #R2{background-color:rgb(255, 255, 255);height:53px;width:30%;padding-top:7px;text-align:center;margin-bottom:10px;float: left;}
+        #R3{background-color:gray;height:60px;width:67%;padding-top:7px;text-align:center;margin-bottom:10px;float: right;}
+        #R4{background-color:gray;height:500px;width:67%;padding-top:7px;text-align:center;margin-bottom:10px;float: right;}
+        #R5{background-color:gray;height:33px;width:100%;padding-top:7px;text-align:center;margin-bottom:10px;float: right;}
+     </style>
+</head>
+<body>
+    <div>
+        <div id="R1"> Logo </div>
+        <div id="R2"> Side bar Navigation </div>
+        <div id="R3">Header/Banner </div> <br>
+        <div id="R4">Body Area</div>
+        <div id="R5"> Footer</div>
+    </div>
+</body>
+</html>
