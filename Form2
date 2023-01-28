@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="form, employee, radisson, blu, radissonblu, employee, html, css, what is,">
-    <title>form</title>
+    <title>form2</title>
     <style>
         .form1 {
             display: flex;
@@ -85,8 +85,8 @@
                 <option value="stream">coures</option>
                 <option value="BCA" name="BCA">BCA</option>
                 <option value="MCA" name="MCA">MCA</option>
-                <option value="MBA" name="MBA">BSC.IT</option>
-                <option value="B.COM" name="B.COM">MSC.IT</option>
+                <option value="bsc.it" name="bsc.it">BSC.IT</option>
+                <option value="msc.it" name="msc.it">MSC.IT</option>
             </select>
         </div>
         <div>
