@@ -15,10 +15,9 @@
         #R4C3{width:23.5%;margin-right:1%;margin-left:1%}
         #R4C4{width:23%;margin-left:1%;}
         #R4 div{float:left;height:320px;padding-top:280px;text-align:center;background-color:gray;}
-        /* #R5{background-color:gray;height:100px;padding-top:30px;width:100%;padding-left:5%;margin-bottom:10px;} */
         #R5C1{width:30%;margin-right:1%;}
         #R5C2{width:36%;margin-left:1%;}
-        #R5 div{float:left;height:70px;width:710px;00px;padding-top:10px;text-align:center;background-color:gray; text-align: center;}
+        #R5 div{float:left;height:70px;width:710px;padding-top:10px;text-align:center;background-color:gray; text-align: center;}
      
      </style>
      
